@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to CODE Greens" />
         <p className="description">
-        Launching Soon
+        Launching Soon(this is dev branch)
         </p>
       </main>
 
